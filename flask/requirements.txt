@@ -1,0 +1,53 @@
+absl-py @ file:///tmp/build/80754af9/absl-py_1600297527605/work
+appdirs==1.4.4
+astor==0.8.1
+audioread==2.1.9
+certifi==2020.6.20
+cffi==1.14.3
+chardet==3.0.4
+click==7.1.2
+decorator==4.4.2
+Flask==1.1.2
+gast==0.2.2
+google-pasta==0.2.0
+grpcio @ file:///tmp/build/80754af9/grpcio_1597424467487/work
+h5py @ file:///tmp/build/80754af9/h5py_1593454119955/work
+idna==2.10
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==0.17.0
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing==1.1.0
+librosa==0.8.0
+llvmlite==0.34.0
+Markdown @ file:///tmp/build/80754af9/markdown_1603216490021/work
+MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1594371495811/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numba==0.51.2
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1596233707986/work
+opt-einsum==3.1.0
+packaging==20.4
+pooch==1.2.0
+protobuf==3.13.0
+pycparser==2.20
+pyparsing==2.4.7
+requests==2.24.0
+resampy==0.2.2
+scikit-learn==0.23.2
+scipy @ file:///tmp/build/80754af9/scipy_1597686620742/work
+six==1.15.0
+SoundFile==0.10.3.post1
+tensorboard==1.15.0
+tensorflow==1.15.0
+tensorflow-estimator==1.15.1
+termcolor==1.1.0
+threadpoolctl==2.1.0
+urllib3==1.25.11
+uWSGI @ file:///home/conda/feedstock_root/build_artifacts/uwsgi_1602758934247/work
+webencodings==0.5.1
+Werkzeug==0.16.1
+wrapt==1.12.1
+zipp @ file:///tmp/build/80754af9/zipp_1603306325174/work
